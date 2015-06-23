@@ -1,0 +1,23 @@
+{
+  "name": "ng-multi-transclude",
+  "version": "0.1.5",
+  "description": "Richer transclusion for AngularJS",
+  "main": "./src/multi-transclude.js",
+  "scripts": {
+    "test": "echo Error: no test specified && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacklam718/ng-multi-transclude.git"
+  },
+  "keywords": [
+    "ng-multi-transclude",
+    "multi-transclude"
+  ],
+  "author": "Jack Lam <jacklam718@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacklam718/ng-multi-transclude/issues"
+  },
+  "homepage": "https://github.com/jacklam718/ng-multi-transclude"
+}
