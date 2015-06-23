@@ -2,7 +2,7 @@
   "name": "ng-multi-transclude",
   "version": "0.1.5",
   "description": "Richer transclusion for AngularJS",
-  "main": "./src/multi-transclude.js",
+  "main": "src/multi-transclude.js",
   "scripts": {
     "test": "echo Error: no test specified && exit 1"
   },
